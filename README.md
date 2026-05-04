@@ -5,8 +5,8 @@ A sleek flutter application that calculates and shows Body Mass Index in an eleg
 ## Features:
 
 - Unit Conversions and seemless switch between units :
-  -Weight: Kilogram(kg), Pound (lb)
-  -Height: Centimeter(cm), Inch(in), Foot(ft), Meter(m)
+  Weight: Kilogram(kg), Pound (lb)
+  Height: Centimeter(cm), Inch(in), Foot(ft), Meter(m)
 - Custom Numpad
 - Smart Input Formatting: Automatic comma separation and decimal point handling.
 - Interactive UI Smooth transitions between in input modes, result cards, homepage and screens.
