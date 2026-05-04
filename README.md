@@ -19,10 +19,16 @@ A sleek flutter application that calculates and shows Body Mass Index in an eleg
 ## Installation:
 
 1.  Clone Repo:
+
+    ```bash
     git clone https://github.com/JoyatuBarua/bmi_calculator.git
+    ```
 
 2.  Navigate to the project directory:
+
+    ```bash
     cd bmi_calculator
+    ```
 
 3.  Install dependencies:
     flutter pub get
