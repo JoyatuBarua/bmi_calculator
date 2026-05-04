@@ -31,7 +31,10 @@ A sleek flutter application that calculates and shows Body Mass Index in an eleg
     ```
 
 3.  Install dependencies:
+
+    ```bash
     flutter pub get
+    ```
 
 4.  Run the app:
 
