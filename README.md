@@ -1,8 +1,8 @@
-# bmi_calculator
+# bmi_calculator ⏲️
 
 A sleek flutter application that calculates and shows Body Mass Index in an elegent manner with support to multiple height and weight units!
 
-## Features:
+## Features ✨
 
 - Unit Conversions and seemless switch between units :\
   Weight: Kilogram(kg), Pound (lb)\
@@ -11,12 +11,45 @@ A sleek flutter application that calculates and shows Body Mass Index in an eleg
 - Smart Input Formatting: Automatic comma separation and decimal point handling.
 - Interactive UI Smooth transitions between in input modes, result cards, homepage and screens.
 
-## Tech Stacks:
+## Tech Stacks </>
 
-- Framework & language: Flutter, Dart
-- Packages: intl ^0.20.2 (For number formatting), syncfusion_flutter_gauges: ^33.2.4 (For showing bmi result using linear gauge)
+| Category          | Technology                                                                                             | Purpose                                      |
+| :---------------- | :----------------------------------------------------------------------------------------------------- | :------------------------------------------- |
+| **Framework**     | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white) | Cross-platform UI development                |
+| **Language**      | ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)          | Reactive programming logic                   |
+| **Formatting**    | `intl ^0.20.2`                                                                                         | Localization and numeric formatting          |
+| **Visualization** | `syncfusion_flutter_gauges`                                                                            | Dynamic BMI result display via linear gauges |
 
-## Installation:
+## Demo 💻
+
+<div align = "center">
+<table style="width: 100%; border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <!-- Video Column -->
+    <td style="vertical-align: top; border: none;">
+      <video src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/videos/demo_video_bmi_calculator.mp4" 
+             autoplay="true" 
+             loop="true" 
+             muted="true" 
+             playsinline="true"
+             style="max-height: 400px; width: auto;">
+      </video>
+    </td>
+    <!-- Photo 1 Column -->
+    <td style="vertical-align: top; border: none;">
+      <img src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/images
+/demo_image_1_bmi_calculator.jpeg" style="max-height: 400px; width: auto;" alt="App Screenshot 1">
+    </td>
+    <!-- Photo 2 Column -->
+    <td style="vertical-align: top; border: none;">
+      <img src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/images
+/demo_image_2_bmi_calculator.jpeg" style="max-height: 400px; width: auto;" alt="App Screenshot 2">
+    </td>
+  </tr>
+</table>
+</div>
+
+## Installation ⚙️
 
 1.  Clone Repo:
 
