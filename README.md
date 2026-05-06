@@ -1,6 +1,6 @@
 # bmi_calculator ⏲️
 
-A sleek flutter application that calculates and shows Body Mass Index in an elegent manner with support to multiple height and weight units!
+A sleek flutter application that calculates and shows Body Mass Index in an elegant manner with support to multiple height and weight units!
 
 ## Features ✨
 
