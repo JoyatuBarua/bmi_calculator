@@ -22,31 +22,33 @@ A sleek flutter application that calculates and shows Body Mass Index in an eleg
 
 ## Demo 💻
 
-<div align = "center">
-<table style="width: 100%; border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <!-- Video Column -->
-    <td style="vertical-align: top; border: none;">
-      <video src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/videos/demo_video_bmi_calculator.mp4" 
-             autoplay="true" 
-             loop="true" 
-             muted="true" 
-             playsinline="true"
-             style="max-height: 400px; width: auto;">
-      </video>
-    </td>
-    <!-- Photo 1 Column -->
-    <td style="vertical-align: top; border: none;">
-      <img src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/images
-/demo_image_1_bmi_calculator.jpeg" style="max-height: 400px; width: auto;" alt="App Screenshot 1">
-    </td>
-    <!-- Photo 2 Column -->
-    <td style="vertical-align: top; border: none;">
-      <img src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/images
-/demo_image_2_bmi_calculator.jpeg" style="max-height: 400px; width: auto;" alt="App Screenshot 2">
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="width: 100%; border-collapse: collapse; border: none;">
+    <tr style="border: none;">
+      <!-- Video Column -->
+      <td style="vertical-align: top; border: none; padding: 5px;">
+        <video src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/videos/demo_video_bmi_calculator.mp4" 
+               autoplay="true" 
+               loop="true" 
+               muted="true" 
+               playsinline="true"
+               style="max-height: 400px; width: auto; border-radius: 8px;">
+        </video>
+      </td>
+      <!-- Photo 1 Column -->
+      <td style="vertical-align: top; border: none; padding: 5px;">
+        <img src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/images/demo_image_1_bmi_calculator.jpeg" 
+             style="max-height: 400px; width: auto; border-radius: 8px;" 
+             alt="App Screenshot 1">
+      </td>
+      <!-- Photo 2 Column -->
+      <td style="vertical-align: top; border: none; padding: 5px;">
+        <img src="https://github.com/JoyatuBarua/bmi_calculator/raw/main/assets/images/demo_image_2_bmi_calculator.jpeg" 
+             style="max-height: 400px; width: auto; border-radius: 8px;" 
+             alt="App Screenshot 2">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## Installation ⚙️
