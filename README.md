@@ -28,10 +28,11 @@ A sleek flutter application that calculates and shows Body Mass Index in an eleg
       <!-- Video Column -->
       <td style="vertical-align: top; border: none; padding: 5px;">
         <video src="https://github.com/user-attachments/assets/f8c573a7-dcff-402e-a7a9-5fa2be8c2c88" 
-               autoplay="true" 
-               loop="true" 
-               muted="true" 
+               autoplay="autoplay" 
+               loop="loop" 
+               muted="muted" 
                playsinline="true"
+               poster="https://github.com/key/bmi_calculator/raw/main/assets/images/poster_image_bmi_calculator.jpeg"
                preload="auto"
                style="max-height: 400px; width: auto; border-radius: 8px;">
         </video>
